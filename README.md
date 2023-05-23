@@ -6,7 +6,9 @@ Software Engineer
 
 *   🌍  I'm based in Halifax, Canada
 *   ✉️  You can contact me at [developer.yash.bhalani@gmail.com](mailto:developer.yash.bhalani@gmail.com)
-*   🧠  I'm learning Full Stack Development### Skills 
+*   🧠  I'm learning Full Stack Development
+
+### Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
@@ -32,3 +34,6 @@ Software Engineer
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
                     
+### Socials
+<p align="left">
+<a href="https://www.github.com/bhalaniyash007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
