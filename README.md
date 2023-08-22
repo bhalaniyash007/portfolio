@@ -7,6 +7,7 @@ Software Engineer
 *   🌍  I'm based in Halifax, Canada
 *   ✉️  You can contact me at [developer.yash.bhalani@gmail.com](mailto:developer.yash.bhalani@gmail.com)
 *   🧠  I'm learning Full Stack Development
+*   Portfolio: www.yashbhalani.com
 
 ### Skills 
 <p align="left">
